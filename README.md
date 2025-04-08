@@ -1,8 +1,8 @@
 ## 🧑‍💻 Sobre mim
 
-Sou um estudante apaixonado por desenvolvimento de sistemas!  
-Atualmente, estou aprendendo e aplicando novas tecnologias para aprimorar minhas habilidades.  
-Busco constantemente desafios e oportunidades para crescer na área de tecnologia.
+Sou um estudante apaixonado por desenvolvimento de sistemas!
+Atualmente, estou focado em aprender e aplicar tecnologias voltadas para o back-end, criando soluções robustas e eficientes.
+Busco constantemente desafios e oportunidades para crescer na área de tecnologia, com ênfase no desenvolvimento de APIs e gerenciamento de bancos de dados.
 
 ## 📊 GitHub Stats
 
